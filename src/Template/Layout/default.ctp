@@ -78,7 +78,7 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
                     <a href="post.html">Sample Post</a>
                 </li>
                 <li>
-                    <a href="contact.html">Contato</a>
+                    <?= $this->Html->link('Contato', array('controller' => 'pages', 'action' => 'contact')) ?>
                 </li>
             </ul>
         </div>

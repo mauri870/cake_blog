@@ -27,7 +27,6 @@ use Cake\View\Exception\MissingTemplateException;
  */
 class PagesController extends AppController
 {
-    public $footermessage;
     /**
      * Displays a view
      *
@@ -35,7 +34,18 @@ class PagesController extends AppController
      * @throws \Cake\Network\Exception\NotFoundException When the view file could not
      *   be found or \Cake\View\Exception\MissingTemplateException in debug mode.
      */
+
     public function index()
+    {
+        $this->set('footermessage','Todos os direitos reservados &copy; Mauri870 2014');
+    }
+
+    public function contact()
+    {
+        $this->set('footermessage','Todos os direitos reservados &copy; Mauri870 2014');
+    }
+
+    public function about()
     {
         $this->set('footermessage','Todos os direitos reservados &copy; Mauri870 2014');
     }

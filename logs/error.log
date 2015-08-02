@@ -365,3 +365,812 @@ Stack Trace:
 #3 {main}
 
 
+2015-07-31 23:43:37 Error: [Cake\Controller\Exception\MissingActionException] Action PagesController::img() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/img/home-bg.jpg
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#2 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-07-31 23:43:43 Error: [Cake\Controller\Exception\MissingActionException] Action PagesController::img() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/img/home-bg.jpg
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#2 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-07-31 23:43:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Post.html could not be found.
+Exception Attributes: array (
+  'class' => 'Post.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/post.html
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-07-31 23:43:51 Error: [Cake\Controller\Exception\MissingActionException] Action PagesController::img() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/img/home-bg.jpg
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#2 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-07-31 23:44:03 Error: [Cake\Controller\Exception\MissingActionException] Action PagesController::img() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/img/home-bg.jpg
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#2 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-07-31 23:45:37 Error: [Cake\Controller\Exception\MissingActionException] Action PagesController::img() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/img/home-bg.jpg
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#2 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-07-31 23:45:37 Error: [Cake\Controller\Exception\MissingActionException] Action PagesController::img() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/img/home-bg.jpg
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#2 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-07-31 23:45:46 Error: [Cake\Controller\Exception\MissingActionException] Action PagesController::img() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/img/home-bg.jpg
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#2 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-07-31 23:46:21 Error: [Cake\Controller\Exception\MissingActionException] Action PagesController::img() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/img/home-bg.jpg
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#2 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-07-31 23:59:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Post.html could not be found.
+Exception Attributes: array (
+  'class' => 'Post.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/post.html
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-01 00:00:25 Warning: Warning (4096): Argument 2 passed to Cake\Routing\RouteBuilder::connect() must be of the type array, string given, called in /var/www/html/cake_blog/config/routes.php on line 50 and defined in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 387]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 387
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 50
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 593
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 886
+include - ROOT/config/routes.php, line 71
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 970
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 335
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 53
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-01 00:00:25 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-01 00:00:25 Error: [Cake\Error\FatalErrorException] Unsupported operand types
+Request URL: /cake_blog/pages/
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Unsupported ope...', '/var/www/html/c...', 390)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-01 00:00:25 Warning: Warning (4096): Argument 2 passed to Cake\Routing\RouteBuilder::connect() must be of the type array, string given, called in /var/www/html/cake_blog/config/routes.php on line 50 and defined in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 387]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 387
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 50
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 593
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 886
+include - ROOT/config/routes.php, line 71
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 970
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 335
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 53
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-01 00:00:25 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-01 00:00:25 Error: [Cake\Error\FatalErrorException] Unsupported operand types
+Request URL: /cake_blog/debug_kit/toolbar/fb571128-fe77-42b6-9be1-1350270322df
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Unsupported ope...', '/var/www/html/c...', 390)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-01 00:00:25 Warning: Warning (4096): Argument 2 passed to Cake\Routing\RouteBuilder::connect() must be of the type array, string given, called in /var/www/html/cake_blog/config/routes.php on line 50 and defined in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 387]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 387
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 50
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 593
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 886
+include - ROOT/config/routes.php, line 71
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 970
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 335
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 53
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-01 00:00:25 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-01 00:00:25 Error: [Cake\Error\FatalErrorException] Unsupported operand types
+Request URL: /cake_blog/debug_kit/toolbar/2eef2316-d6a2-47a1-930b-35f85ba91b7a
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Unsupported ope...', '/var/www/html/c...', 390)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-01 00:00:25 Warning: Warning (4096): Argument 2 passed to Cake\Routing\RouteBuilder::connect() must be of the type array, string given, called in /var/www/html/cake_blog/config/routes.php on line 50 and defined in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 387]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 387
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 50
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 593
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 886
+include - ROOT/config/routes.php, line 71
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 970
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 335
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 53
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-01 00:00:25 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-01 00:00:25 Error: [Cake\Error\FatalErrorException] Unsupported operand types
+Request URL: /cake_blog/debug_kit/toolbar/6a633801-f963-4214-859a-01422b043cce
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Unsupported ope...', '/var/www/html/c...', 390)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-01 00:00:26 Warning: Warning (4096): Argument 2 passed to Cake\Routing\RouteBuilder::connect() must be of the type array, string given, called in /var/www/html/cake_blog/config/routes.php on line 50 and defined in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 387]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 387
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 50
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 593
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 886
+include - ROOT/config/routes.php, line 71
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 970
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 335
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 53
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-01 00:00:26 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-01 00:00:26 Error: [Cake\Error\FatalErrorException] Unsupported operand types
+Request URL: /cake_blog/debug_kit/toolbar/e56b4eba-ff5c-4212-ad65-2736a4c2b10f
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Unsupported ope...', '/var/www/html/c...', 390)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-01 00:00:26 Warning: Warning (4096): Argument 2 passed to Cake\Routing\RouteBuilder::connect() must be of the type array, string given, called in /var/www/html/cake_blog/config/routes.php on line 50 and defined in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 387]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 387
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 50
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 593
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 886
+include - ROOT/config/routes.php, line 71
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 970
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 335
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 53
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-01 00:00:26 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-01 00:00:26 Error: [Cake\Error\FatalErrorException] Unsupported operand types
+Request URL: /cake_blog/debug_kit/toolbar/50095662-30b6-4cd2-a337-01973ead398a
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Unsupported ope...', '/var/www/html/c...', 390)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-01 00:00:26 Warning: Warning (4096): Argument 2 passed to Cake\Routing\RouteBuilder::connect() must be of the type array, string given, called in /var/www/html/cake_blog/config/routes.php on line 50 and defined in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 387]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 387
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 50
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 593
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 886
+include - ROOT/config/routes.php, line 71
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 970
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 335
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 53
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-01 00:00:26 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-01 00:00:26 Error: [Cake\Error\FatalErrorException] Unsupported operand types
+Request URL: /cake_blog/debug_kit/toolbar/127bd47d-1384-4313-8534-e4a407d192c9
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Unsupported ope...', '/var/www/html/c...', 390)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-01 00:00:26 Warning: Warning (4096): Argument 2 passed to Cake\Routing\RouteBuilder::connect() must be of the type array, string given, called in /var/www/html/cake_blog/config/routes.php on line 50 and defined in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 387]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 387
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 50
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 593
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 886
+include - ROOT/config/routes.php, line 71
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 970
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 335
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 53
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-01 00:00:26 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-01 00:00:26 Error: [Cake\Error\FatalErrorException] Unsupported operand types
+Request URL: /cake_blog/debug_kit/toolbar/53e60953-3eb3-4d48-8760-349ac9f4b010
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Unsupported ope...', '/var/www/html/c...', 390)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-01 00:00:26 Warning: Warning (4096): Argument 2 passed to Cake\Routing\RouteBuilder::connect() must be of the type array, string given, called in /var/www/html/cake_blog/config/routes.php on line 50 and defined in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 387]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 387
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 50
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 593
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 886
+include - ROOT/config/routes.php, line 71
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 970
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 335
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 53
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-01 00:00:26 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-01 00:00:27 Error: [Cake\Error\FatalErrorException] Unsupported operand types
+Request URL: /cake_blog/debug_kit/toolbar/db164f13-3b11-4d28-9021-f147815594c9
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Unsupported ope...', '/var/www/html/c...', 390)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-01 00:00:27 Warning: Warning (4096): Argument 2 passed to Cake\Routing\RouteBuilder::connect() must be of the type array, string given, called in /var/www/html/cake_blog/config/routes.php on line 50 and defined in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 387]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+Cake\Routing\RouteBuilder::connect() - CORE/src/Routing/RouteBuilder.php, line 387
+Cake\Routing\Router::{closure}() - ROOT/config/routes.php, line 50
+Cake\Routing\RouteBuilder::scope() - CORE/src/Routing/RouteBuilder.php, line 593
+Cake\Routing\Router::scope() - CORE/src/Routing/Router.php, line 886
+include - ROOT/config/routes.php, line 71
+Cake\Routing\Router::_loadRoutes() - CORE/src/Routing/Router.php, line 970
+Cake\Routing\Router::parse() - CORE/src/Routing/Router.php, line 335
+Cake\Routing\Filter\RoutingFilter::beforeDispatch() - CORE/src/Routing/Filter/RoutingFilter.php, line 53
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-01 00:00:27 Error: Fatal Error (1): Unsupported operand types in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/RouteBuilder.php, line 390]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 192
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 91
+[main] - [internal], line ??
+
+
+
+2015-08-01 00:00:27 Error: [Cake\Error\FatalErrorException] Unsupported operand types
+Request URL: /cake_blog/debug_kit/toolbar/33d446ae-93d3-44c6-8cbf-95ee2b3edfd9
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(91): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Unsupported ope...', '/var/www/html/c...', 390)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-08-01 00:28:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Post.html could not be found.
+Exception Attributes: array (
+  'class' => 'Post.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/post.html
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-01 00:28:26 Error: [Cake\Controller\Exception\MissingActionException] Action PagesController::img() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/img/home-bg.jpg
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#2 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-08-01 00:28:30 Error: [Cake\Controller\Exception\MissingActionException] Action PagesController::img() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'img',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/img/home-bg.jpg
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#2 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-08-01 00:29:53 Error: [Cake\View\Exception\MissingHelperException] Helper class webrootHelper could not be found.
+Exception Attributes: array (
+  'class' => 'webrootHelper',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\View\HelperRegistry->_throwMissingClassError('webroot', NULL)
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/HelperRegistry.php(67): Cake\Core\ObjectRegistry->load('webroot')
+#2 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/View.php(751): Cake\View\HelperRegistry->__isset('webroot')
+#3 /var/www/html/cake_blog/src/Template/Layout/default.ctp(92): Cake\View\View->__get('webroot')
+#4 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/View.php(834): include('/var/www/html/c...')
+#5 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/View.php(794): Cake\View\View->_evaluate('/var/www/html/c...', Array)
+#6 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/View.php(511): Cake\View\View->_render('/var/www/html/c...')
+#7 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/View.php(473): Cake\View\View->renderLayout('', 'default')
+#8 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Controller/Controller.php(582): Cake\View\View->render(NULL, NULL)
+#9 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#10 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#11 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#12 {main}
+
+
+2015-08-01 00:30:40 Error: [Cake\View\Exception\MissingHelperException] Helper class webrootHelper could not be found.
+Exception Attributes: array (
+  'class' => 'webrootHelper',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Core/ObjectRegistry.php(91): Cake\View\HelperRegistry->_throwMissingClassError('webroot', NULL)
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/HelperRegistry.php(67): Cake\Core\ObjectRegistry->load('webroot')
+#2 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/View.php(751): Cake\View\HelperRegistry->__isset('webroot')
+#3 /var/www/html/cake_blog/src/Template/Layout/default.ctp(92): Cake\View\View->__get('webroot')
+#4 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/View.php(834): include('/var/www/html/c...')
+#5 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/View.php(794): Cake\View\View->_evaluate('/var/www/html/c...', Array)
+#6 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/View.php(511): Cake\View\View->_render('/var/www/html/c...')
+#7 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/View.php(473): Cake\View\View->renderLayout('', 'default')
+#8 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Controller/Controller.php(582): Cake\View\View->render(NULL, NULL)
+#9 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#10 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#11 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#12 {main}
+
+
+2015-08-01 00:34:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Post.html could not be found.
+Exception Attributes: array (
+  'class' => 'Post.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/post.html
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-01 00:36:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Post.html could not be found.
+Exception Attributes: array (
+  'class' => 'Post.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/post.html
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-01 00:59:37 Warning: Warning (2): htmlentities(): charset `false' not supported, assuming utf-8 in [/var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/Helper/HtmlHelper.php, line 355]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 139
+htmlentities - [internal], line ??
+Cake\View\Helper\HtmlHelper::link() - CORE/src/View/Helper/HtmlHelper.php, line 355
+include - APP/Template/Pages/index.ctp, line 16
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 834
+Cake\View\View::_render() - CORE/src/View/View.php, line 794
+Cake\View\View::render() - CORE/src/View/View.php, line 465
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 582
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2015-08-01 01:00:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Post.html could not be found.
+Exception Attributes: array (
+  'class' => 'Post.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/post.html
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-01 02:20:14 Error: [Cake\Controller\Exception\MissingActionException] Action PagesController::post.html() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'post.html',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/post.html
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#2 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-08-02 01:08:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Post.html could not be found.
+Exception Attributes: array (
+  'class' => 'Post.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/post.html
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-02 02:32:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Posts could not be found.
+Exception Attributes: array (
+  'class' => 'Posts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/posts
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-02 02:34:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Post.html could not be found.
+Exception Attributes: array (
+  'class' => 'Post.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/post.html
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-02 02:36:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Posts could not be found.
+Exception Attributes: array (
+  'class' => 'Posts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/posts
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-02 02:46:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Posts could not be found.
+Exception Attributes: array (
+  'class' => 'Posts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/posts
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-02 20:25:30 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Posts could not be found.
+Exception Attributes: array (
+  'class' => 'Posts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/posts
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-02 20:28:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Posts could not be found.
+Exception Attributes: array (
+  'class' => 'Posts',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/posts
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-02 21:32:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/js/bootstrap.min.js.js
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-02 21:32:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake_blog/js/bootstrap.min.js.js
+Stack Trace:
+#0 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-08-02 22:17:30 Error: [Cake\Controller\Exception\MissingActionException] Action PagesController::pages() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'pages',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /cake_blog/pages/pages
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#2 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-08-02 22:17:38 Error: [Cake\View\Exception\MissingTemplateException] Template file "Pages/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages/login.ctp',
+)
+Request URL: /cake_blog/pages/login
+Stack Trace:
+#0 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/View/View.php(462): Cake\View\View->_getViewFileName(NULL)
+#1 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Controller/Controller.php(582): Cake\View\View->render(NULL, NULL)
+#2 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 /var/www/html/cake_blog/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#4 /var/www/html/cake_blog/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+

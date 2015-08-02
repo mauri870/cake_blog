@@ -30,16 +30,9 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
     <?= $this->Html->meta('icon') ?>
 
     <!-- Custom Fonts and Icons-->
-    <?= $this->Html->css('http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css') ?>
-    <?= $this->Html->css('http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic') ?>
-    <?= $this->Html->css('http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800') ?>
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-    <?= $this->Html->script("https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js") ?>
-    <?= $this->Html->script("https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js") ?>
-    <![endif]-->
+    <?= $this->Html->css('https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css') ?>
+    <?= $this->Html->css('https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic') ?>
+    <?= $this->Html->css('https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800') ?>
 
     <!-- CSS Styles -->
     <?= $this->Html->css('bootstrap.min.css') ?>
@@ -89,7 +82,7 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
 
 <!-- Page Header -->
 <!-- Set your background image for this header on the line below. -->
-<header class="intro-header" style="background-image: url('img/home-bg.jpg')">
+<header class="intro-header">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -142,10 +135,18 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
                         </a>
                     </li>
                 </ul>
-                <p class="copyright text-muted"><?= $footermessage ?></p>
+                <p class="copyright text-muted">Todos os direitos reservados &copy; Mauri870 2014</p>
             </div>
         </div>
     </div>
 </footer>
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<?= $this->Html->script("https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js") ?>
+<?= $this->Html->script("https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js") ?>
+<![endif]-->
+<?= $this->Html->script('jquery.js') ?>
+<?= $this->Html->script('bootstrap.min.js') ?>
 </body>
 </html>

@@ -221,7 +221,7 @@ return [
             //'port' => 'nonstandard_port_number',
             'username' => 'root',
             'password' => 'Mauri34534193',
-            'database' => 'first',
+            'database' => 'blog',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
             'cacheMetadata' => true,
